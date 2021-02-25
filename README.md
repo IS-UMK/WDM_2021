@@ -2,6 +2,6 @@
 
 Materiały na laboratoium Wstęp do Data Mining
 
-Lab. 1  [Wprowadzenie do Python i notatnika Jupyter](https://github.com/IS-UMK/mn/blob/main/01_Wprowadzenie.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/mn/blob/main/01_Wprowadzenie.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/mn/main?filepath=01_Wprowadzenie.ipynb)
+Lab. 1  [Wprowadzenie do Python i notatnika Jupyter](https://github.com/IS-UMK/WDM_2021/blob/main/01_Wprowadzenie.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/WDM_2021/blob/main/01_Wprowadzenie.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/WDM_2021/main?filepath=01_Wprowadzenie.ipynb)
 
 
